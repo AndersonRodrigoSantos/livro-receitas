@@ -5,3 +5,5 @@ Olá! Bem vindo ao nosso livro de receitas :call_me_hand:
 * Strogonoff
 * Feijoada
 * Bisteca
+* Pavê
+* Macarronada
